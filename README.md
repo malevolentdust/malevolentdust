@@ -1,6 +1,6 @@
 ### I Voted!
 
-![I Voted] (https://user-images.githubusercontent.com/3104489/97828882-616ae680-1c96-11eb-8110-4f39349b4033.gif?raw=true)
+![I Voted](https://user-images.githubusercontent.com/3104489/97828882-616ae680-1c96-11eb-8110-4f39349b4033.gif?raw=true)
 
 - 📫  How to reach me: [Contact Page](https://portfolio.patbronson.com/contact)
 

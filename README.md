@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📫 How to reach me: [Contact Page](https://portfolio.patbronson.com/contact)
+- 📫  How to reach me: [Contact Page](https://portfolio.patbronson.com/contact)
 
 <!--
 **malevolentdust/malevolentdust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
